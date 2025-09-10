@@ -108,20 +108,13 @@ npm start
 ---
 
 ## 🖼️ Screenshots  
-*(Add screenshots of your application UI here)*  
+ <img width="865" height="427" alt="image" src="https://github.com/user-attachments/assets/f04487bb-6af8-44ac-b6f5-a206ec80d9a7" />
+ <img width="724" height="355" alt="image" src="https://github.com/user-attachments/assets/a23b75a6-af8e-4f3b-8f2b-50e62ef5e83b" />
+ <img width="883" height="441" alt="image" src="https://github.com/user-attachments/assets/dabaf3e0-7812-4e48-8797-70e4bd6a56d8" />
 
----
-
-## 🤝 Contribution
-Feel free to fork this repo and create a pull request if you’d like to contribute.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)
+**Yash Nemade**  
+GitHub: [@Hamsegg](https://github.com/Hamsegg)
