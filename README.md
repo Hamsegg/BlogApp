@@ -13,8 +13,6 @@ It allows users to create, read, update, and delete blog posts with authenticati
 - **Image Uploads** for posts
 - **Responsive Design** for desktop & mobile
 - **Secure API Endpoints** with authentication middleware
-- **Pagination & Search** for posts
-- **Comment System** for user interaction
 
 ---
 
