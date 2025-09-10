@@ -23,7 +23,7 @@ It allows users to create, read, update, and delete blog posts with authenticati
 - React.js
 - React Router
 - Axios
-- Tailwind CSS / Material UI (if used)
+- Tailwind CSS / Material UI
 
 ### **Backend**
 - Node.js
@@ -89,8 +89,6 @@ cd ../frontend
 npm install
 npm start
 ```
-
----
 
 ## 🔑 API Endpoints
 
